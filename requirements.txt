@@ -1,0 +1,4 @@
+biosteam>=2.40.0
+thermosteam>=0.34.0
+numpy>=1.20.0
+matplotlib>=3.3.0
